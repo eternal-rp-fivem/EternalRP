@@ -5,4 +5,4 @@
 * Donnez vos idées
 * Posez vos questions
 
-**→ [Support](/issues)**
+**→ [Créer une demande](https://github.com/eternal-rp-fivem/EternalRP/issues/1)**
